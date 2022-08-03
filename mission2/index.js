@@ -1,6 +1,3 @@
-function func(a) {    
-    console.log(a);
-    func(a)
+export function func(a) {    
+    console.log(a)
 }
-
-func('사람해')

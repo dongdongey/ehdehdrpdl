@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dongdongey/ehdehdrpdl/issues"
   },
-  "homepage": "https://github.com/dongdongey/ehdehdrpdl#readme"
+  "homepage": "https://github.com/dongdongey/ehdehdrpdl#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
 }
